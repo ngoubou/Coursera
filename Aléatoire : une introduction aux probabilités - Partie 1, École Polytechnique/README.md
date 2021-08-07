@@ -1,6 +1,6 @@
 ## About this Course
 
-Ce cours d'introduction aux probabilités a la même contenu que le cours de tronc commun de première année de l'École polytechnique donné par Sylvie Méléard.
+Ce cours d'introduction aux probabilités a le même contenu que le cours de tronc commun de première année de l'École polytechnique donné par Sylvie Méléard.
 
 Le cours introduit graduellement la notion de variable aléatoire et culmine avec la loi des grands nombres et le théorème de la limite centrale. 
 
